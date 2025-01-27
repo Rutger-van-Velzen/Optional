@@ -26,3 +26,5 @@ replay_pid*
 #Intellij
 .DS_Store
 .idea
+
+out/
